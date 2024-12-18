@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    color: #3874B4;
+    text-decoration: underline;
+    
+}
+h1, .firstPara, .secPara, .thirdPara, .fourthPara{
+    margin: 20px;
+}
+
+.firstPara, .secPara, .thirdPara, .fourthPara, p{
+    margin-top: 10px;
+}
